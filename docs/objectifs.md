@@ -6,7 +6,7 @@ title: Objectifs du projet
 
 # Remise en contexte du projet
 
-Dans le cadre d'un projet d'étude nous avons, mon équipe et moi, du créer et modifier un projet open-source nommé les OTTO-MKS afin que lors de la journée des projets celui-ci puisse participer a un évènement nommé les ottolympiades. Dans ce cadre nous avons donc du respecter certaines contraintes. 
+Dans le cadre d'un projet d'étude nous avons, mon équipe et moi, du créer et modifier un projet open-source nommé les OTTO-MKS afin que lors de la journée des projets celui-ci puisse participer a un évènement nommé les ottolympiades. Dans ce cadre nous avons donc du respecter certaines contraintes afin de performer au mieux lors des différentes épreuves que l'OTTO va traverser.
 
 # Cahier des Charges
 
