@@ -4,22 +4,16 @@ nav_order: 3
 title: Objectifs du projet
 ---
 
-# Introduction
+# Remise en contexte du projet
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
-
-## Contexte du Projet
-
-Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.
-
-## Objectifs du Projet
-
-Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede.
-
-# Existant
-
-Praesent blandit adipiscing velit. Suspendisse potenti. Donec mattis, pede vel pharetra blandit, magna ligula faucibus eros, id euismod lacus dolor eget odio.
+Dans le cadre d'un projet d'étude nous avons, mon équipe et moi, du créer et modifier un projet open-source nommé les OTTO-MKS afin que lors de la journée des projets celui-ci puisse participer a un évènement nommé les ottolympiades. Dans ce cadre nous avons donc du respecter certaines contraintes. 
 
 # Cahier des Charges
 
-Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus.
+Pour ce projets les attendus académiques étaint les suivants:
+
+Un robot fonctionnel
+Une vidéo de 1min format portrait présentant professionnellement votre projet
+Le fichier OnShape de notre OTTO-MKS modifié
+Un rapport de projet OU un site web de documentation
+Notre participation aux Ottolympiades
