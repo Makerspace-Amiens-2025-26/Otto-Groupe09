@@ -42,6 +42,6 @@ Ici vous publierez la vidéo de votre projet.
 - Si en stockage local : <50mo
 et une vidéo montrant la participation de celui ci a un combat de sumo (l'une des épreuves des ottolympiades)
 
+![vidéo paticipation](images/vidmato1.mp4)
 <video src="images/vidmato1.mp4" controls title="Title"  style="width: 100%;"></video>
-
 ---
