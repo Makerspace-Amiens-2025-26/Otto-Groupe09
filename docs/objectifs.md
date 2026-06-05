@@ -12,8 +12,8 @@ Dans le cadre d'un projet d'étude nous avons, mon équipe et moi, du créer et 
 
 Pour ce projets les attendus académiques étaint les suivants:
 
-Un robot fonctionnel
-Une vidéo de 1min format portrait présentant professionnellement votre projet
-Le fichier OnShape de notre OTTO-MKS modifié
-Un rapport de projet OU un site web de documentation
-Notre participation aux Ottolympiades
+* Un robot fonctionnel
+* Une vidéo de 1min format portrait présentant professionnellement notre projet
+* Le fichier OnShape de notre OTTO-MKS modifié
+* Un rapport de projet (ce que vous voyez actuellement)
+* Notre participation aux Ottolympiades
