@@ -5,9 +5,7 @@ title: Accueil
 permalink: /
 ---
 
-# Bienvenue sur notre documentation
-
-Bienvenue dans la documentation du projet XY. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
+# Bienvenue sur notre documentation pour le projet Otto!
 
 [Notre projet sur Onshape](https://cad.onshape.com/documents/8bf1596e187e4bf357696c1b/w/fd2014de3f82dbc0fe876f24/e/3f9c09ec674ba6faa442c708?renderMode=0&uiState=6a22d87ad5e36997ce2f5d43){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Notre repo GitHub](https://github.com/Makerspace-Amiens/template-project){: .btn .fs-5 .mb-4 .mb-md-0 }
@@ -28,7 +26,7 @@ Le projet Otto que notre equipe a renomé l'ottobrico est né de l'envie de gagn
 * l'utilisation des equipements disponible au makerspace uniquement
 
   En les suivant tous on as obtenu ce résultat:
-  
+ ![image otto](images/otto1.jpg) 
 
 ![Poster projet](images/poster.jpg)
 
