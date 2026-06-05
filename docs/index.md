@@ -20,12 +20,15 @@ Bienvenue dans la documentation du projet XY. Ce site a pour but de fournir tout
 
 ## À propos du Projet
 
-Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre projet. Quel est son but ? À qui est-il destiné ? Quels problèmes cherche-t-il à résoudre ?
+Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre projet. Quel est son but ?
+Le projet Otto que notre equipe a renomé l'ottobrico est né de l'envie de gagner une competition académique s'étant déroulé lors de la journée des projets nommé les Ottolympiades. Dans cet optique de victoire nous avons du faire un designe corresppondant aux multiples requis pour gagner un maximum d'épreuves aisi que de respecter certaines contraintes techniques tel que:
 
+* une taille maximale quand tout les actionneurs sont déclenchés au maximum
+* l'impossibilité de détruire les autres robots (logique pour le type de competition)
+* l'utilisation des equipements disponible au makerspace uniquement
 
-## Poster
-
-Ici vous publierez le poster de votre projet.
+  En les suivant tous on as obtenu ce résultat:
+  
 
 ![Poster projet](images/poster.jpg)
 
