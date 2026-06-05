@@ -28,10 +28,10 @@ Le projet Otto que notre equipe a renomé l'ottobrico est né de l'envie de gagn
   En les suivant tous on as obtenu ce résultat:
  ![image otto](images/otto1.jpg) 
 
-![Poster projet](images/poster.jpg)
 
 ## Vidéo
-
+ enfin pour cette page de présentation voici une video expliquant plus en profondeur le projet:
+ 
 Ici vous publierez la vidéo de votre projet. 
 - 1min30 au format vertical
 - Présentation du projet 
