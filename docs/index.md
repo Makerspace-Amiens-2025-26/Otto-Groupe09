@@ -18,12 +18,12 @@ permalink: /
 
 ## À propos du Projet
 
-Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre projet. Quel est son but ?
 Le projet Otto que notre equipe a renomé l'ottobrico est né de l'envie de gagner une competition académique s'étant déroulé lors de la journée des projets nommé les Ottolympiades. Dans cet optique de victoire nous avons du faire un designe corresppondant aux multiples requis pour gagner un maximum d'épreuves aisi que de respecter certaines contraintes techniques tel que:
 
 * une taille maximale quand tout les actionneurs sont déclenchés au maximum
 * l'impossibilité de détruire les autres robots (logique pour le type de competition)
 * l'utilisation des equipements disponible au makerspace uniquement
+* la possibilité de le controller nous même via le logiciel remote XY
 
   En les suivant tous on as obtenu ce résultat:
  ![image otto](images/otto1.jpg) 
@@ -40,7 +40,8 @@ Ici vous publierez la vidéo de votre projet.
 - Des plans du fonctionnement (même basique ou des éléments séparés)
 - Une conclusion
 - Si en stockage local : <50mo
+et une vidéo montrant la participation de celui ci a un combat de sumo (l'une des épreuves des ottolympiades)
 
-<video src="images/intro_amiens.mp4" controls title="Title"  style="width: 100%;"></video>
+<video src="images/vidmato1.mp4" controls title="Title"  style="width: 100%;"></video>
 
 ---
