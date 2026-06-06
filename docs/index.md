@@ -37,7 +37,7 @@ Le projet Otto que notre equipe a renomé l'ottobrico est né de l'envie de gagn
 
 <video src="images/vidrom1.mp4" controls title="Title"  style="width: 100%;"></video>
 
-avec ses commandes on a pu ainsi avoir les résultats suivants durant l'épreuve de sumo.
+avec ces commandes on a pu ainsi avoir les résultats suivants durant l'épreuve de sumo.
 
 <video src="images/vidmato1.mp4" controls title="Title"  style="width: 100%;"></video>
 
