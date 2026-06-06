@@ -2,11 +2,8 @@
 ---
 
 layout: default
-
 title: Controle qualité
-
 parent: Etapes de fabrication
-
 nav_order: 4
 
 ---
