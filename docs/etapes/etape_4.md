@@ -11,7 +11,7 @@ afin de d'acceder au codage du robot, il faut vérifier son bon fonctionnement.
 
 ## Étapes de controle 
 
-1. **Fixation** : vérifiez que le robot ne se démonte pas out seul.
+1. **Fixation** : vérifiez que le robot ne se démonte pas tout seul.
 
    
 2. **Test** : vérifiez que chaque composants électronique fonctionne.
