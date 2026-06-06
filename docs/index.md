@@ -32,21 +32,13 @@ Le projet Otto que notre equipe a renomé l'ottobrico est né de l'envie de gagn
 ## Vidéo
  enfin pour cette page de présentation voici une video expliquant plus en profondeur le projet:
 
- dans la vidéo si-dessous vous pouvez ainsi voir les différentes actions réalisables par le robot tel qu'une dance ou ces mouvement (autant de la pelle que la marche avant ou la marche arrière).
+ dans la vidéo si-dessous vous pouvez ainsi voir les différentes actions réalisables par le robot tel qu'une dance ou ces mouvement (autant de la pelle que la marche avant ou la marche arrière). Ces commandes sont effectués via une application nommé  remote XY qui nous permet de controler le robot manuellement.
  
-Ici vous publierez la vidéo de votre projet. 
-- 1min30 au format vertical
-- Présentation du projet 
-- Des explication du fonctionnement du projet
-- Des vues du projet / Prototype / Application etc... 
-- Des plans du fonctionnement (même basique ou des éléments séparés)
-- Une conclusion
-- Si en stockage local : <50mo
-et une vidéo montrant la participation de celui ci a un combat de sumo (l'une des épreuves des ottolympiades)
 
-<video src="images/vidmato2.mp4" controls title="Title"  style="width: 100%;"></video>
+<video src="images/vidrom1.mp4" controls title="Title"  style="width: 100%;"></video>
 
-
+avec ses commandes on a pu ainsi avoir les résultats suivants durant l'épreuve de sumo.
 
 <video src="images/vidmato1.mp4" controls title="Title"  style="width: 100%;"></video>
+
 ---
