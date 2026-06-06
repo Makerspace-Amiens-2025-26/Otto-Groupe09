@@ -31,6 +31,8 @@ Le projet Otto que notre equipe a renomé l'ottobrico est né de l'envie de gagn
 
 ## Vidéo
  enfin pour cette page de présentation voici une video expliquant plus en profondeur le projet:
+
+ dans la vidéo si-dessous vous pouvez ainsi voir les différentes actions réalisables par le robot tel qu'une dance ou ces mouvement (autant de la pelle que la marche avant ou la marche arrière).
  
 Ici vous publierez la vidéo de votre projet. 
 - 1min30 au format vertical
