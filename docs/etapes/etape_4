@@ -1,1 +1,18 @@
 
+---
+layout: default
+title: Controle qualité
+parent: Etapes de fabrication
+nav_order: 4
+---
+
+# controle qualité
+
+afin de d'acceder au codage du robot, il faut vérifier son bon fonctionnement.
+
+## Étapes de controle 
+
+1. **Fixation** : vérifiez que le robot ne se démonte pas out seul.
+
+   
+2. **Test** : vérifiez que chaque composants électronique fonctionne.
