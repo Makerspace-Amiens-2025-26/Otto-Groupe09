@@ -7,7 +7,7 @@ has_children: true
 
 # Étapes de Fabrication
 
-Bienvenue dans la section dédiée aux étapes de fabrication du projet XYZ. Ici, vous trouverez des guides détaillés pour chaque étape du processus de fabrication.
+Bienvenue dans la section dédiée aux étapes de fabrication du projet otto le brico. Ici, vous trouverez des guides détaillés pour chaque étape du processus de fabrication.
 
 ## Aperçu des Étapes
 
