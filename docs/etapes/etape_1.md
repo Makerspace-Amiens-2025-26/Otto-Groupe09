@@ -11,15 +11,17 @@ Cette section décrit la première étape du processus de fabrication : la prép
 
 ## Liste des Matériaux
 
-- Matériau A
-- Matériau B
-- Outils nécessaires
+- PLA 
+- pince
+- tourne visse +
+- tourne visse -
+
 
 ## Procédure de Préparation
 
-1. **Nettoyage** : Nettoyez tous les matériaux pour enlever la poussière et les débris.
-2. **Découpe** : Découpez les matériaux A et B selon les dimensions spécifiées.
-3. **Prétraitement** : Appliquez un traitement de surface si nécessaire.
+1. **Déballage** : déballez votre bobine de filament PLA et chargez là dans votre imprimante 3D
+2. **Impréssion** : imprimez les pieces sans modifier leurs dimensions d'origine
+3. **traitement** : Appliquez un traitement de surface si nécessaire afin de lisser vos impressions(ponçage, peinture...)
 
 ## Conseils de Sécurité
 
