@@ -1,8 +1,7 @@
-
 ---
 layout: default
 title: Finition
-parent: Etapes de fabrication
+parent: etapes de fabrication
 nav_order: 3
 ---
 
