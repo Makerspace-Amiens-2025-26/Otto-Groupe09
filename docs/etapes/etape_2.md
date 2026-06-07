@@ -31,7 +31,7 @@ Après la préparation des matériaux, l'étape suivante est l'assemblage.
 
    -dans la partie du milieu, placez de chaque coté un servo-moteur et vissez les  (2 visses chacun)
 
-![assemblage](images/mat1.jpg)
+![assemblage1](images/mat1.jpg)
    
 4. **Fixation** : Fixez solidement les pièces ensemble en utilisant les outils appropriés.
    - une fois chaque jambe pré-montée passez les cables dans la partie basse du robot via les espaces prévus à cet effet
@@ -43,7 +43,7 @@ Après la préparation des matériaux, l'étape suivante est l'assemblage.
    - emboitez la partie du milieu sur celle du bas
    - emboitez la tete sur le reste du robot
   
-![assemblage](images/mat3.jpg)
+![assemblage2](images/mat3.jpg)
      
 5. **Mise à zéro** : testez les servo-moteur avant de coder pour éviter toute casse.
     - sur votre page de code faites une mise à zéro de servo-moteur
@@ -58,7 +58,7 @@ Après la préparation des matériaux, l'étape suivante est l'assemblage.
 - Vérifiez la stabilité et la solidité de l'assemblage
 - vérifiez la remise à zéro des servo-moteur et de leur bon fonctionnement
 
-![assemblage](images/mat4.jpg)
+![assemblage3](images/mat4.jpg)
 
 ## Problèmes Communs et Solutions
 
